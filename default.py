@@ -271,7 +271,7 @@ if __name__ == '__main__':
     status = page+'/api/info/status'
     
     
-    ADDON = xbmcaddon.Addon(id='plugin.audio.example')
+    ADDON = xbmcaddon.Addon(id='plugin.audio.swcc')
     CWD = ADDON.getAddonInfo('path').decode("utf-8")
 
 
