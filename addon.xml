@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.swcc" name="Spotify Web Connect Control" version="0.0.4" provider-name="noemu">
+<addon id="plugin.audio.swcc" name="Spotify Web Connect Control" version="0.1.0" provider-name="noemu">
     <requires>
         <import addon="xbmc.python" version="2.20.0" />
         <import addon="script.module.requests" version="2.9.1"/>
