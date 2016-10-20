@@ -5,6 +5,7 @@ This Addon is a remotecontrol for the spotify-connect-web Server by Fornoth (nic
 
 Tested with Fornoth's [0.0.3-alpha armv7+ spotify-connect-web] (https://github.com/Fornoth/spotify-connect-web/releases)
 
+Install Zip: [Master-Release] (https://github.com/noemu/plugin.audio.swcc/archive/master.zip)
 
 ToDo's:
 * ToDo: Icon/Name
