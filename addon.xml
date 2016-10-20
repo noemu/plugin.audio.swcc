@@ -13,6 +13,6 @@
         <license>GNU General Public License, v2</license>
         <description lang="en">Spotify Connect RC</description>
         <platform>all</platform>
-        <source>https://github.com/noemu/script.example-master</source>
+        <source>https://github.com/noemu/plugin.audio.swcc</source>
     </extension>
 </addon>
