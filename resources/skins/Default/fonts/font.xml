@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fonts>
+	<fontset id="Default" idloc="31390" unicode="true"> 
+	<!-- Normal Fonts -->
+	 	<font>
+			<name>h1</name>
+			<filename>micross.ttf</filename>
+			<size>32</size>
+		</font>
+	 	<font>
+			<name>h2</name>
+			<filename>micross.ttf</filename>
+			<size>24</size>
+		</font>
+	 	<font>
+			<name>h3</name>
+			<filename>micross.ttf</filename>
+			<size>18</size>
+		</font>
+	 	<font>
+			<name>h4</name>
+			<filename>micross.ttf</filename>
+			<size>16</size>
+		</font>
+	 	<font>
+			<name>h5</name>
+			<filename>micross.ttf</filename>
+			<size>13</size>
+		</font>
+	 	<font>
+			<name>h6</name>
+			<filename>micross.ttf</filename>
+			<size>10</size>
+		</font>
+	 	
+ 
+	<!-- bold Fonts -->
+	 	<font>
+			<name>h1b</name>
+			<filename>micross.ttf</filename>
+            <style>bold></style>
+			<size>32</size>
+		</font>
+	 	<font>
+			<name>h2b</name>
+			<filename>micross.ttf</filename>
+            <style>bold></style>
+			<size>24</size>
+		</font>
+	 	<font>
+			<name>h3b</name>
+			<filename>micross.ttf</filename>
+            <style>bold></style>
+			<size>18</size>
+		</font>
+	 	<font>
+			<name>h4b</name>
+			<filename>micross.ttf</filename>
+            <style>bold></style>
+			<size>16</size>
+		</font>
+	 	<font>
+			<name>h5b</name>
+			<filename>micross.ttf</filename>
+            <style>bold></style>
+			<size>13</size>
+		</font>
+	 	<font>
+			<name>h6b</name>
+			<filename>micross.ttf</filename>
+            <style>bold></style>
+			<size>10</size>
+		</font>
+	 	
+	</fontset>
+ 
+</fonts>
