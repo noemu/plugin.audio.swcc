@@ -42,7 +42,7 @@ def main():
             started = False
             
         if (isPlaying) and (not started) and (not closedByUser) and connectedToOSMC:
-            xbmc.executebuiltin('RunAddon("plugin.audio.example")')
+            xbmc.executebuiltin('RunAddon("plugin.audio.swcc")')
             
             #wakeup from screensaver by simulating a button activity
             json_query = xbmc.executeJSONRPC('{"jsonrpc": "2.0", "method": "Input.ContextMenu", "id": 1}')
